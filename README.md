@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis-Dashboard-Excel-project
+![image](https://github.com/ParulBansal19/E-Commerce-Sales-Analysis-Dashboard-Excel-project/assets/144795250/76707da7-fe00-45e4-a4ba-f76ac4b9cfa6)# E-Commerce-Sales-Analysis-Dashboard-Excel-project
 ## Business Problem Statement:
 
 This portfolio project involves a comprehensive analysis of an E-Commerce company dataset to gain insights and understand the key trends in our business performance.
@@ -26,3 +26,10 @@ This portfolio project involves a comprehensive analysis of an E-Commerce compan
 ### 6. What was the category-wise profit?
 
 ### 7. Analysis of the total profit and sales
+
+## Insights
+
+Technology is the highest sale in the other categories (~36%)													
+Phones are the highest sale in the other sub-categories (~36%)													
+California has the highest sales according to the state													
+Technology has the highest profit in the categories	
