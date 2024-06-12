@@ -27,7 +27,7 @@ This portfolio project involves a comprehensive analysis of an E-Commerce compan
 
 ### 7. Analysis of the total profit and sales
 
-## Insights
+## Insights:
 
 ### Technology is the highest sale in the other categories (~36%)													
 ### Phones are the highest sale in the other sub-categories (~36%)													
